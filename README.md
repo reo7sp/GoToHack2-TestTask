@@ -1,4 +1,4 @@
-# GoToHack2-TestTask
+# GoToHack2 test task
 Репозиторий для отборочного этапа на [GoToHack 2](http://goto.msk.ru/hackathon/).
 
 ## Блицы
